@@ -1,0 +1,7 @@
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\bin\Release\promptyTest.exe
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\bin\Release\promptyTest.pdb
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\bin\Release\prompty.dll
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\bin\Release\prompty.pdb
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\obj\x86\Release\promptyTest.exe
+C:\Dropbox\root\Programming\C#\prompty\promptyTest\obj\x86\Release\promptyTest.pdb
